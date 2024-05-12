@@ -5,8 +5,6 @@
   
      for(let i = 1; i <= 100; i++){
         console.log(i);
-     }
-
 
 //L'esercizio mi pone delle condizioni:
   
@@ -24,4 +22,11 @@
         console.log(multiplesOfFive);
       }
 
-   
+    //Per i numeri che sono sia multipli di 3 che di 5 stampi “FizzBuzz”:
+
+      //else((i% 3 || i% 5) == 0){
+        //const multiplesOfThreeFive ='FizzBuzz';
+        //console.log(multiplesOfThreeFive);
+      //}
+
+    }   
