@@ -1,0 +1,8 @@
+
+//Scrivi un programma che stampi in console i numeri da 1 a 100:
+
+  //incomincio creando un ciclo (contatore; condizione; incremento/decremento):
+  
+     for(let i = 1; i <= 100; i++){
+        console.log(i);
+     }
